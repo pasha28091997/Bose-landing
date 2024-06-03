@@ -5,4 +5,4 @@ Bang&olufsen
 2. Technologies that were used;
 HTML CSS (scss)
 3. Replace `<your_account>` and `<(https://github.com/pasha28091997/Bose-landing)>` with your Github username and the new repo name
-    - [DEMO LINK]([https://<pasha28091997>.github.io/<Bose-landing>/])
+    - [DEMO LINK][([https://<pasha28091997>.github.io/<Bose-landing>/])](https://pasha28091997.github.io/Bose-landing/)
